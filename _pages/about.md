@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! Welcome to my personal website! My name is Sarthak Dalal and I am current pursuing my Master of Science in Computer Science at [Rutgers University](https://www.rutgers.edu/). I received my Bachelor of Engineering in Electronics and Telecommunication from [University of Mumbai](https://mu.ac.in/).
+Hey there! Welcome to my personal website! My name is Sarthak Dalal and I am currently pursuing my Master of Science in Computer Science at [Rutgers University](https://www.rutgers.edu/). I received my Bachelor of Engineering in Electronics and Telecommunication from [University of Mumbai](https://mu.ac.in/).
 
 Skills
 ========

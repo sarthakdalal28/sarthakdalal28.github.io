@@ -39,7 +39,7 @@ title: "Projects"
 - Implemented and tested backward A* search and adaptive A* search algorithms, comparing their execution times to forward A* search.
 - Created an interactive graphical user interface using the pygame module to visually display the shortest path the agent takes to reach the target.
 
-## [BidBazaar](https://github.com/sarthakdalal28/Fast-Trajectory-Replanning)
+## [BidBazaar](https://github.com/sarthakdalal28/BidBazaar)
 
 *Feb 2023 – Apr 2023*
 

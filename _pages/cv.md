@@ -9,4 +9,4 @@ redirect_from:
 
 <embed src="https://sarthakdalal28.github.io/files/Sarthak_Dalal_Resume.pdf" type="application/pdf" width="100%" height="110%" />
 
-Click [here](https://drive.google.com/file/d/1_GOmn_4m8jBhcaQOxbbdm8NSxWXlVfhs/view?usp=sharing) to download my resume!
+Click [here](https://sarthakdalal28.github.io/files/Sarthak_Dalal_Resume.pdf) to download my resume!

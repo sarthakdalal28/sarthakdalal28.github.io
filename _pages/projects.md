@@ -3,6 +3,20 @@ permalink: /projects/
 title: "Projects"
 ---
 
+## [Age, Gender, Ethnicity Prediction](https://github.com/sarthakdalal28/Age_Gender_Ethnicity_prediction)
+
+*June 2023*
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1oBAz7jc8d7Z8Vjqe5Ue_rrCKGlUSqmJX/preview" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+- Developed an image classification system using deep learning techniques to predict age, gender, and ethnicity from uploaded images. 
+- Implemented a ResNet9 architecture for gender and ethnicity prediction, and a ResNet18 architecture for age prediction.
+- Trained the models on a labeled dataset containing images representing various age, gender, and ethnicity groups.
+- Developed a Flask web application to provide an interactive user interface for image upload and prediction.
+- Integrated the trained models into the Flask app, allowing users to upload an image and receive predictions for age, gender, and ethnicity.
+
 ## [Two-Way Real-Time Sign Language Recognition](https://drive.google.com/file/d/11HIzoeOGVWHysG5NqF5ZSCS9oj5QkqFK/view?usp=share_link)
 
 *Feb 2023 – Apr 2023*

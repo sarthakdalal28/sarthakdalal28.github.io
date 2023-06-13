@@ -3,7 +3,11 @@ permalink: /experience/
 title: "My Experience"
 ---
 
-  
+## PipeIQ
+
+*Machine Learning Intern* (June 2023 - Current)
+
+- Building Data Ingestion Model.
 
 ## Indian Institute of Technology - Delhi
 

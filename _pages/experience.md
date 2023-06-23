@@ -7,7 +7,10 @@ title: "My Experience"
 
 *Machine Learning Intern* (June 2023 - Current)
 
-- Building Data Ingestion Model.
+- Working on automating investor outreach on LinkedIn. Developing a bot to automate connections with investors on LinkedIn and initiate communication through inmail.
+- Utilizing Selenium WebDriver and Python to facilitate seamless interactions and coordinate meeting schedules.
+- Creating a chatbot solution for B2B data gathering and personalized conversations with website visitors.
+- Employing Flask, JavaScript, and NLP techniques to enhance the chatbot's functionality. 
 
 ## Indian Institute of Technology - Delhi
 

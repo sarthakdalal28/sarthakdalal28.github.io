@@ -7,10 +7,10 @@ title: "My Experience"
 
 *Machine Learning Intern* (June 2023 - Current)
 
-- Working on automating investor outreach on LinkedIn. Developing a bot to automate connections with investors on LinkedIn and initiate communication through inmail.
-- Utilizing Selenium WebDriver and Python to facilitate seamless interactions and coordinate meeting schedules.
-- Creating a chatbot solution for B2B data gathering and personalized conversations with website visitors.
-- Employing Flask, JavaScript, and NLP techniques to enhance the chatbot's functionality. 
+- Developing a chatbot solution to integrate into client websites. Implementing IP address tracking to identify visiting company representatives 
+and utilizing web scraping techniques to extract and store relevant data from client websites in the Pinecone vector database.
+- Incorporating personalized conversation capabilities based on visitor's company information, enhancing the user experience, and increasing 
+engagement.
 
 ## Indian Institute of Technology - Delhi
 

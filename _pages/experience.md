@@ -3,14 +3,23 @@ permalink: /experience/
 title: "My Experience"
 ---
 
+## Rutgers University 
+
+*Teaching Assistant* (September 2023 - Current)
+
+- Recitation Instructor for CS170: Computer Application for Business, overseeing two sections with a combined enrollment of 46 students.
+
 ## PipeIQ
 
-*Machine Learning Intern* (June 2023 - Current)
+*Machine Learning Intern* (June 2023 - August 2023)
 
-- Developing a chatbot solution to integrate into client websites. Implementing IP address tracking to identify visiting company representatives 
-and utilizing web scraping techniques to extract and store relevant data from client websites in the Pinecone vector database.
-- Incorporating personalized conversation capabilities based on visitor's company information, enhancing the user experience, and increasing 
-engagement.
+- Engineered a customer-centric chatbot utilizing prompt engineering and LangChain technologies. The chatbot seamlessly integrates into client 
+websites, bolstered by PipeIQ backend, enhancing user interaction.
+- Spearheaded the development of a robust FastAPI endpoint to host the PipeIQ backend on AWS Elastic Beanstalk, ensuring optimal 
+performance and scalability for the chatbot, resulting in improved user experiences.
+- Implemented strategic analytics integration using Google Tag Manager, incorporating Google Analytics, DealFront, and PeopleDataLabs onto 
+the PipeIQ website. Leveraged PeopleDataLabs Data and reverse IP lookup to identify and personalize user interactions, a pivotal technology 
+now integral to the chatbot's functionality.
 
 ## Indian Institute of Technology - Delhi
 

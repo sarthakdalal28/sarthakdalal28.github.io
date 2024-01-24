@@ -3,6 +3,15 @@ permalink: /projects/
 title: "Projects"
 ---
 
+## [Robotics Project](https://docs.google.com/presentation/d/1a7tgPyw11JlrcFTrCeL5NzdwxcCJIpM9/edit#slide=id.p1)
+
+*Sept 2023 - Nov 2023*
+
+- Developed and implemented a quadruped navigation and obstacle avoidance system for a robotic dog using the Unitree Go1 robot in the Isaac Gym Simulator.
+- Utilized the physics-based simulator, Isaac Gym, for environment setup, interfacing with the gym environment, and training neural networks through model-free reinforcement learning.
+- Successfully achieved the project's primary objective of enabling the robot dog to navigate from point A to point B while dynamically avoiding collisions with obstacles, showcasing expertise in legged robot control and reinforcement learning
+
+
 ## [Age, Gender, Ethnicity Prediction](https://github.com/sarthakdalal28/Age_Gender_Ethnicity_prediction)
 
 *June 2023*

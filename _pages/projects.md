@@ -3,6 +3,13 @@ permalink: /projects/
 title: "Projects"
 ---
 
+## [Optimizing Energy Efficiency: A Comprehensive Analysis of Household Electricity Consumption](https://github.com/sarthakdalal28/Optimizing-Energy-Efficiency)
+
+*Mar 2024 - May 2024*
+
+- Developed machine learning models to predict household electricity consumption, using time-series analysis to enable data-driven decisions for energy savings. Implemented various models including Polynomial Regression, XGBoost, Random Forest, and CatBoost, with Random Forest achieving the lowest RMSE.
+- Enhanced model insights by integrating findings into a user-friendly interface using the Django framework, facilitating real-time energy consumption predictions to promote efficient energy use and cost savings
+
 ## [Robotics Project](https://docs.google.com/presentation/d/1a7tgPyw11JlrcFTrCeL5NzdwxcCJIpM9/edit#slide=id.p1)
 
 *Sept 2023 - Nov 2023*

@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! Welcome to my personal website! My name is Sarthak Dalal and I am currently pursuing my Master of Science in Computer Science at [Rutgers University](https://www.rutgers.edu/). I received my Bachelor of Engineering in Electronics and Telecommunication from [University of Mumbai](https://mu.ac.in/).
+👋 Hello! I'm Sarthak Dalal, a Master of Science in Computer Science graduate from [Rutgers University]((https://www.rutgers.edu/)), where I specialized in machine learning, data science, and software development. My academic foundation is deeply rooted in technology, having earned my Bachelor of Engineering in Electronics and Telecommunications from the [University of Mumbai]((https://mu.ac.in/)).
 
-Skills
-========
-I possess a diverse set of technical skills, including proficiency in web technologies such as HTML, CSS, Bootstrap, Flask, and NodeJS. I am experienced in working with databases, particularly SQL and MongoDB. Additionally, I have a strong command of programming languages such as C, C++, R, Java, Python, and JavaScript. In the field of machine learning, I have hands-on experience with popular frameworks and libraries such as TensorFlow, scikit-learn, Keras, and Pandas.
+🔍 At Rutgers, I have immersed myself in a rigorous curriculum including artificial intelligence, data structures, and computer vision, maintaining a stellar GPA of 3.9. My career includes impactful internships such as a Software Development Intern in Machine Learning at PipeIQ, where I designed an advanced customer-centric chatbot, and a Research Intern at the Indian Institute of Technology - Delhi, focusing on AI applications in the judiciary system.
 
-Looking Ahead
-========
-As I progress in my academic journey and expand my skill set, I am eagerly seeking full-time roles in software development, machine learning, and data science. Starting from the summer of 2024, I am excited to join a dynamic organization where I can contribute my problem-solving abilities, passion for technology, and collaborative nature to make a meaningful impact.
+💻 I possess a comprehensive skill set encompassing web technologies like HTML, CSS, Bootstrap, Flask, and NodeJS, and databases such as SQL and MongoDB. My programming expertise spans C, C++, R, Java, Python, and JavaScript. In machine learning, I'm proficient with TensorFlow, scikit-learn, Keras, and Pandas, applying these tools to both academic projects and real-world applications.
 
-Thank you for visiting my website, and I look forward to connecting with you and exploring potential opportunities in the near future!
+🚀 As I advance in my career, I am keen to explore full-time opportunities in software development, machine learning, and data science. Starting from the summer of 2024, I am eager to join a dynamic team where I can leverage my technical skills, problem-solving capabilities, and passion for innovation to drive significant technological advancements.
+
+🔗 Let’s connect and discuss how we can collaborate to create impactful solutions in the technology space!

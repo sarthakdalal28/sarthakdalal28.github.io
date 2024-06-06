@@ -39,5 +39,5 @@ now integral to the chatbot's functionality.
 
 *Intern* (June 2021 – August 2021)
 
-- Developed a Lottery System page using JavaScript and Firebase which handles a database of users and generates a random lucky winner.about cancer.
+- Developed a Lottery System page using JavaScript and Firebase which handles a database of users and generates a random lucky winner.
 - Integrated the Raspberry Pi Cam to Raspberry Pi to develop a face recognition system using OpenCV.

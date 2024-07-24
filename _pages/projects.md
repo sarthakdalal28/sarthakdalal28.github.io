@@ -3,6 +3,19 @@ permalink: /projects/
 title: "Projects"
 ---
 
+## [MovieShop MVC Application](https://sarthakdalal28.azurewebsites.net/)
+
+*July 2024*
+
+- Developed a comprehensive MovieShop MVC Application utilizing ASP.NET Core with Onion/Clean Architecture to implement a robust and scalable web application.
+- Implemented CI/CD pipelines using Azure DevOps, ensuring seamless integration and deployment processes. Automated build and release processes, reducing deployment time by 50%.
+- Configured Azure SQL Database for backend storage, leveraging Entity Framework Core for data access and migrations, resulting in efficient data management and operations.
+- Enhanced application performance and scalability by deploying the application on Azure App Service, optimizing resource utilization and ensuring high availability.
+- Integrated user authentication and authorization using ASP.NET Core Identity, providing secure access control and user management.
+- Set up a dynamic genre-based movie browsing feature, fetching and displaying movies by genre, improving user experience and engagement.
+- Utilized Bootstrap for responsive design, creating a user-friendly interface that works seamlessly across various devices and screen sizes.
+- Conducted thorough testing and debugging of the application, ensuring high-quality and bug-free releases through automated testing in the CI/CD pipeline.
+
 ## [Optimizing Energy Efficiency: A Comprehensive Analysis of Household Electricity Consumption](https://github.com/sarthakdalal28/Optimizing-Energy-Efficiency)
 
 *Mar 2024 - May 2024*

@@ -5,7 +5,7 @@ title: "My Experience"
 
 ## Rutgers University 
 
-*Teaching Assistant* (September 2023 - Current)
+*Teaching Assistant* (September 2023 - May 2024)
 
 - Recitation Instructor for CS170: Computer Application for Business, overseeing two sections with a combined enrollment of 46 students.
 

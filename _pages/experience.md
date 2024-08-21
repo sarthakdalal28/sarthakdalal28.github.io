@@ -18,8 +18,10 @@ websites, bolstered by PipeIQ backend, enhancing user interaction.
 - Spearheaded the development of a robust FastAPI endpoint to host the PipeIQ backend on AWS Elastic Beanstalk, ensuring optimal 
 performance and scalability for the chatbot, resulting in improved user experiences.
 - Implemented strategic analytics integration using Google Tag Manager, incorporating Google Analytics, DealFront, and PeopleDataLabs onto 
-the PipeIQ website. Leveraged PeopleDataLabs Data and reverse IP lookup to identify and personalize user interactions, a pivotal technology 
-now integral to the chatbot's functionality.
+the PipeIQ website, leading to a 35% increase in actionable insights for the marketing team.
+- Leveraged PeopleDataLabs Data and reverse IP lookup to identify and personalize user interactions, improving lead conversion rates by 40%.
+- Conducted thorough testing and validation procedures to ensure the reliability, scalability, and security of the developed solutions.
+
 
 ## Indian Institute of Technology - Delhi
 

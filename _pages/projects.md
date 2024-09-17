@@ -3,6 +3,18 @@ permalink: /projects/
 title: "Projects"
 ---
 
+## [Payment Detail Register](https://github.com/sarthakdalal28/PaymentApp)
+
+*August 2024*
+
+- Developed a single-page application to manage payment details (card owner name, card number, CVV, and expiration date) using C#, .NET Core for backend services and Angular for the frontend.
+- Implemented functionalities for adding, updating, and deleting card entries in a SQL database, with validation on all fields (16-digit card number, 3 or 4-digit CVV, 5-character expiration date).
+- Enhanced the user experience by applying form validation, showing invalid fields with a red border, and disabling the submit button for incomplete or incorrect entries.
+- Integrated ngx-toastr for real-time notifications on success, failure, and update actions, ensuring user-friendly feedback.
+-  Secured sensitive card data using best practices for input validation and error handling.
+
+
+
 ## [MovieShop MVC Application](https://sarthakdalal28.azurewebsites.net/)
 
 *July 2024*

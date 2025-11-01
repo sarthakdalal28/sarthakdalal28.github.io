@@ -26,7 +26,7 @@ This blog is my collection of what survived those iterations. Take what works fo
 
 ---
 
-## "Put yourself in the recruiter's shoes" - The Golden Rule
+## "Put yourself in the recruiter's shoes" - <span style="color: #FFD700;">The Golden Rule</span>
 
 Before you change a single word, internalize this: a recruiter spends, on average, **6-9 seconds** on their first pass of your resume.
 
@@ -79,7 +79,8 @@ I used a **mixed approach**:
 Here is the simple, top-to-bottom format that worked for me:
 
 1.  **Header:** Name, contact info, and links. Critically, include your **LinkedIn**, **GitHub**, and **Personal Website**.
-2.  **Education:** As an entry-level engineer, your education is your most significant credential. Put it first. I included my Master's and Undergrad, along with my **GPA** since it was high (a good rule of thumb is to include it if it's **3.6+**). *Pro Tip:* I added my Teaching Assistant role as a one-liner here. This highlights responsibility without taking up precious space in the *Experience* section.
+2.  **Education:** As an entry-level engineer, your education is your most significant credential. Put it first. I included my Master's and Undergrad, along with my **GPA**. (Definitely include it if it's **3.6+**). 
+*Pro Tip:* I added my Teaching Assistant role as a one-liner here. This highlights responsibility without taking up precious space in the *Experience* section.
 3.  **Skills:** Put this right below education. Why? The Golden Rule. The recruiter can immediately scan this section in the top half of the page and check off the skills they're looking for (e.g., "Python," "C#," "AWS").
 4.  **Work Experience:** Keep this to **one, or at most, two experiences**. You want to make the recruiter's life easy. If you must use two, make one significantly larger (4-5 bullet points) and the other concise (1-2 points) to guide their eye. Most importantly, show ***impact*** **with numbers**. Don't just say what you did; say what it *resulted in* (e.g., "leading to a **35% increase** in actionable insights," "improving lead conversion rates by **40%**," "reducing deployment time by **50%**").
 5.  **Projects:** Same logic. Stick to your **best 1-2 projects** that are *relevant* to the role.

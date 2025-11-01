@@ -8,8 +8,6 @@ tags:
   - FAANG
 ---
 
-## Resume Tips That Got Me My Job at Google
-
 The tech job hunt, especially for entry-level roles, is an experience. I call it my "**resume iteration era**" because I spent countless hours tweaking, rewriting, and sending my resume into the void, hoping for a sign of life.
 
 The good news? The process works. After many, many versions, I landed on a resume that finally started getting results: interviews with **Google** and **Amazon**, an **Online Assessment (OA) from Meta**, and significant traction with small and mid-sized companies.

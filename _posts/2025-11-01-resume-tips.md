@@ -20,6 +20,10 @@ The purpose of this blog is to share the tips that worked for me, specifically f
 
 This blog is my collection of what survived those iterations. Take what works for you, and leave what doesn't.
 
+<div>
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you’ve written the same code 3 times, write a function<br><br>When you’ve given the same in-person advice 3 times, write a blog post</p>&mdash; David Robinson (@drob) <a href="https://twitter.com/drob/status/928447584712253440?ref_src=twsrc%5Etfw">November 9, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 ---
 
 ## "Put yourself in the recruiter's shoes" - The Golden Rule

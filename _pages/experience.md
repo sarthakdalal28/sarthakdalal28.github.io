@@ -3,6 +3,19 @@ permalink: /experience/
 title: "My Experience"
 ---
 
+## Google
+
+*Software Engineer* (December 2024 - Present)
+
+- Developed a centralized, real-time Analytics Advisor Metrics Dashboard containing all key metric insights,
+enabling the team to precisely gauge the Gemini-powered chatbot’s efficacy and directly inform critical decisions
+on scaling the product’s launch percentage.
+- Engineering the ’Feature Extractor’ module, a crucial downstream component in the Analytics Advisor
+pipeline, responsible for processing user query data and extracting advanced features about the user data
+(including max, min, mean, standard deviation, trend, and outlier detection).
+- Executed substantial code refactoring initiatives across the core GA4 codebase to improve long-term
+maintainability, code quality, and system efficiency.
+
 ## Rutgers University 
 
 *Teaching Assistant* (September 2023 - May 2024)
